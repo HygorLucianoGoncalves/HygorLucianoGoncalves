@@ -1,6 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b0e0e6&height=120&section=header"/>
 
-Hi, I’m @HygorLucianoGoncalves
+## Hi, I’m @HygorLucianoGoncalves
 
 Olá sou um estudante de Back-End Java,
 especializado no uso do Spring Boot para criar APIs e sistemas robustos.
