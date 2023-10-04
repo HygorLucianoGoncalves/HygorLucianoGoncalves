@@ -1,12 +1,8 @@
 
 ## Hi, I’m @HygorLucianoGoncalves
 
-Olá sou um estudante de Back-End Java,
-especializado no uso do Spring Boot para criar APIs e sistemas robustos.
-Tenho experiência em desenvolver soluções escaláveis e eficientes para atender às
-necessidades dos usuários. Tenho experiência em desenvolvimento de APIs RESTful e
-posso ajudar a criar uma interface de usuário interativa e responsiva, aproveitando ao máximo as funcionalidades que o
-Spring Boot oferece.
+estudante de Back-End Java,
+
 
  ##
  <div align="center">  
@@ -15,10 +11,9 @@ Spring Boot oferece.
 </div>
 <div align="center"> 
   <a href="https://instagram.com/hygorlucinaooo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/Hylug_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Sr7hcfZ3hu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "hygorluciano0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/hygor-luciano-gon%C3%A7alves-425967280/](http://linkedin.com/in/hygorluciano)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 	<a href="https://www.twitch.tv/dev_hylug" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/Sr7hcfZ3hu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="http://linkedin.com/in/hygorluciano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
